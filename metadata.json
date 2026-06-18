@@ -1,0 +1,6 @@
+{
+  "name": "Opulent",
+  "description": "An opulent study productivity workstation featuring real-time collaboration study sessions, digital textbook libraries, AI integration, and custom imports tailored for Aman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
